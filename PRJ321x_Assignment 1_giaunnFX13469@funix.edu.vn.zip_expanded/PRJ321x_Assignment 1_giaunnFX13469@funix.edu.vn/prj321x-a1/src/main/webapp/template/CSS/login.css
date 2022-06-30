@@ -1,0 +1,43 @@
+.container{
+    background-color: #999999;
+    padding: 10px 20px;
+}
+input{
+    width: 100%;
+}
+label{
+    font-weight: bold;
+}
+.content{
+    background-color: #fff;
+}
+.container .row img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 35%;
+    padding: 15px 0px;
+}
+.btn .btn-success{
+    color: white;
+}
+.footer{
+    background-color: #f1f1f1;
+    position: relative;
+    padding: 20px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: left;
+    position: absolute;
+    right: 10px;
+}
+.btn-cancel{
+    background-color: #e25241;
+    color: #fff;
+    border: 1px solid #e25241;
+    padding: 5px 15px;
+
+}

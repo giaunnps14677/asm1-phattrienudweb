@@ -1,0 +1,30 @@
+.forgot{
+    font-size: 22px;
+    text-decoration: none;
+    color: #919191;
+}
+.btn-danger{
+    border-radius: 15px;
+    padding: 6px 30px;
+}
+.welcome{
+    padding: 15% 0px 15% 0px;
+}
+.sign-in{
+    margin: 10% 0px 10% 0px;
+}
+.container{
+    height: 600px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px 5px #a1a0a2;
+}
+.welcome{
+    height: 600px;
+    background-color: #0f1030;
+    color: #fff;
+}
+.form-control{
+    background-color: #eeeeee;
+    width: 60%;
+    margin-left: 20%;
+}
